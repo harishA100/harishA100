@@ -62,37 +62,13 @@ Consistently improving problem-solving skills and collaborating in team-based en
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=harishA100&show_icons=true&cache_seconds=1800" 
+    src="https://streak-stats.demolab.com?user=harishA100" 
     height="165"
-    alt="Harish GitHub Stats"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=harishA100&cache_seconds=1800" 
-    height="165"
-    alt="Harish GitHub Streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishA100&layout=compact&cache_seconds=1800" 
-    height="150"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=harishA100&no-frame=true&row=1&column=6" 
-    alt="GitHub Trophies"
-  />
-</p>
-
-
+--- 
 ## Connect With Me
 - Email: **harishvaidhesh100@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/harishrmkec/**
